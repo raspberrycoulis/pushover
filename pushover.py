@@ -20,6 +20,6 @@ conn.request("POST", "/1/messages.json",
     "message": "<b>Front Door</b> camera!",     # Content of the message
     "url": "http://IP.ADD.RE.SS",               # Link to be included in message
     "url_title": "View live stream",            # Text for the link
-    "sound": "siren",                           # Define the sound played on the receiving device
+    "sound": "siren",                           # Define the sound played
   }), { "Content-type": "application/x-www-form-urlencoded" })
 conn.getresponse()
