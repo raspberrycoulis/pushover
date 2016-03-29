@@ -4,8 +4,11 @@
 # Created by Wesley Archer (aka. Raspberry Coulis) to enable push notifications #
 # via Pushover.net in MotionEyeOS. See Pushover's API FAQ for more detailed use #
 # Also featured on Pi-Supply.com's Maker Zone.                                  #
-# Follow me on Twitter: @RaspberryCoulis                                        # Website: www.raspberrycoulis.co.uk
-# Email me: wesley@raspberrycoulis.co.uk                                  #
+#																				#
+# Follow me:	@RaspberryCoulis      											# 
+# Visite me: 	raspberrycoulis.co.uk											#
+# Email me: 	wesley@raspberrycoulis.co.uk                        			#
+# Like me:		facebook.com/raspberrycoulis									#
 #################################################################################
 
 import httplib, urllib
