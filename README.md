@@ -22,12 +22,8 @@ Once you have added your tokens:
     ctrl + x  # (to exit nano)
     y         # (to save)
 
-Then you'll need to make sure the script is executable by typing the following command:
-
-    sudo chmod +x pushover.py
-
 You can then run the script via:
 
-    sudo python pushover.py
+    ./pushover.py
 
 However, to set up MotionEye OS you need to follow the **[Add Push Notifications to MotionEye OS](https://www.raspberrycoulis.co.uk/coding/add-push-notifications-motioneye-os/)** guide, which provides a more detailed overview of how to configure MotionEye OS to use your script.
